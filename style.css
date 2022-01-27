@@ -1,0 +1,17 @@
+.titlu{
+    color:green;
+}
+.doi{
+    color: hotpink;
+}
+.unu{
+    color: lawngreen;
+}
+
+.parinte{
+    border:1px solid red;
+    margin-top: 100px;
+    box-sizing: border-box;
+    margin: 0;
+
+}
